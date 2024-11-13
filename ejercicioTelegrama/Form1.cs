@@ -78,7 +78,7 @@ namespace ejercicioTelegrama
                     coste = 0;
                 }
             }
-            txtPrecio.Text = coste.ToString() + " euros";
+            txtPrecio.Text = coste.ToString() + " euros";   
         }
     }
 }
